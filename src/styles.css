@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.css';
+body{
+  background-color: rgb(184, 211, 209);
+  background-image: url("../src/assets/cup.jpg");
+  color: rgb(0, 0, 0);
+  background-size: 1370px;
+}
+.card{
+  border-radius: 50px;
+  background-color: rgba(88, 41, 13, 0.377);
+}
+/* rgb(233, 210, 78) */
+label{
+  color: rgb(8, 8, 8);
+
+}
